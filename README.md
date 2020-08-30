@@ -2,6 +2,10 @@
 
 I'm a data scientist!
 
+<!-- inserir GIF! 
+<img width="400" align='right' src="https://giphy.com/gifs/sherlock-benedict-cumberbatch-bbc-3o6Zt9EEeSSNLd2nqU">
+-->
+
 ### 🌱 What am I working on?
 
 You can see the pinned projects bellow, but here are some that I would like to highlight:
