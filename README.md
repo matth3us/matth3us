@@ -11,6 +11,8 @@ You can see the pinned projects bellow, but here are some that I would like to h
 
 1. 
 
+You can also check my [kaggle profile](https://www.kaggle.com/celsomattheus) for some interesting projects outside of github.
+
 ### 📫 Get in touch!
 
 Best way to reach me is checking my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/celso-mattheus/).
