@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello there 👋! My name is Celso!
 
-<!--
-**matth3us/matth3us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist!
 
-Here are some ideas to get you started:
+### 🌱 What am I working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see the pinned projects bellow, but here are some that I would like to highlight:
+
+1. 
+
+### 📫 Get in touch!
+
+Best way to reach me is checking my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/celso-mattheus/).
+
+### 💻 Check my most used languages below!
+
+Don't mind all the TEX, I've used it for the capstone project of my Data Analysis graduate course.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matth3us&hide=html)](https://github.com/anuraghazra/github-readme-stats)
