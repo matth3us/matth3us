@@ -7,7 +7,7 @@
 
 ## 🌱 What am I working on?
 
-You can see the pinned projects bellow, but here are some that I would like to highlight:
+You can see the pinned projects bellow, but let me tell you why I pinned them:
 
 1. 
 
