@@ -21,4 +21,4 @@ Best way to reach me is checking my [![Linkedin](https://i.stack.imgur.com/gVE0j
 
 ## 💻 Check my most used languages below!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matth3us&hide=html)](https://github.com/anuraghazra/github-readme-stats?hide=TeX )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matth3us&hide=html)](https://github.com/anuraghazra/github-readme-stats?hide=tex )
