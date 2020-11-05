@@ -9,7 +9,10 @@
 
 You can see the pinned projects bellow, but let me tell you why I pinned them:
 
-1. 
+1. tcc ENAP
+1. ius Nominatim
+1. quero ab test
+1. pipelineDealsWrapper
 
 You can also check my [kaggle profile](https://www.kaggle.com/celsomattheus) for some interesting projects outside of github.
 
