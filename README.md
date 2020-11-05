@@ -1,5 +1,4 @@
-# Hello there 👋! 
-## My name is Celso, I'm a data scientist.
+## My name is Celso, I'm a data scientist. 📡
 
 <!-- inserir GIF! 
 <img width="400" align='right' src="https://giphy.com/gifs/sherlock-benedict-cumberbatch-bbc-3o6Zt9EEeSSNLd2nqU">
