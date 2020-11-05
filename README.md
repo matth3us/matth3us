@@ -21,6 +21,4 @@ Best way to reach me is checking my [![Linkedin](https://i.stack.imgur.com/gVE0j
 
 ## 💻 Check my most used languages below!
 
-Don't mind all the TEX, I've used it for the capstone project of my Data Analysis graduate course.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matth3us&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matth3us&hide=html)](https://github.com/anuraghazra/github-readme-stats?hide=TeX )
