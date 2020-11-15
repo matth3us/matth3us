@@ -14,7 +14,7 @@ You can see the pinned projects bellow, but let me tell you why I pinned them:
 
 You can also check my [kaggle profile](https://www.kaggle.com/celsomattheus) for some interesting projects outside of github.
 
-## 🤐 What do I work with outside of github?
+## 🤐 What am I working on outside of github?
 
 Due to business strategy and NDAs, I can't put everything I do in github - or we have to keep it in github but private. I'm currently working for [Quero Educação](https://translate.google.com/translate?sl=pt&tl=en&u=https://sobre.quero.com),, a marketplace for private education in Brazil. Think Booking, but for private college, schools and other courses. I work as the data lead for the K12 branch. So, here's what takes most of my time:
 
