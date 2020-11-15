@@ -16,14 +16,15 @@ You can also check my [kaggle profile](https://www.kaggle.com/celsomattheus) for
 
 ## 🤐 What do I work with outside of github?
 
-Due to business strategy and NDAs, I can't put everything I do in github - or we have to keep it in github but private. I'm currently working for [Quero Educação](https://translate.google.com/translate?sl=pt&tl=en&u=https://sobre.quero.com) a marketplace for private education in Brazil. Think Booking, but for private college, schools and other courses. I work as the data lead for the K12 branch. So, here's what takes most of my time:
+Due to business strategy and NDAs, I can't put everything I do in github - or we have to keep it in github but private. I'm currently working for [Quero Educação](https://translate.google.com/translate?sl=pt&tl=en&u=https://sobre.quero.com),, a marketplace for private education in Brazil. Think Booking, but for private college, schools and other courses. I work as the data lead for the K12 branch. So, here's what takes most of my time:
 
-- I have experience leading people! Before the pandemic, I use to lead two BI analysts, but now I'm only leading one.
-- A looot of SQL. Like a lot. Mostly quick analysis in Spark SQL, using databricks, for quick business decisions. Sometimes, we can make more complicated analysis, like regressions, classifications or even [quasi-experimental studies](https://en.wikipedia.org/wiki/Quasi-experiment) in order to make strategy pivots, when needed.
+- I have experience leading people! Before the pandemic, I use to lead two BI analysts, but now I'm only leading one;
+- A looot of SQL. Like a lot. Mostly quick analysis in Spark SQL, using databricks, for quick business decisions. Sometimes, we can make more complicated analysis, like regressions, classifications or even [quasi-experimental studies](https://en.wikipedia.org/wiki/Quasi-experiment) in order to make strategy pivots, when needed;
 - I create a lot of datamarts in databricks using mostly databricks jobs in Spark SQL and pyspark. I use to write them in R/SparkR as well, but since the community is stronger on python/pypark, I have less of a headache and more support if I keep it all in python. I'm the R guy of the company and not a lot of stack overflow for SparkR issues, so...
 - Some dashboards, mostly Datastudio. I can do them in PowerBI too, but I try to keep dashboards tasks at a minimum in our team's backlog. [Dashboards are dead, people](https://towardsdatascience.com/dashboards-are-dead-b9f12eeb2ad2)!
-- Every semester, we forecast future growth of revenue using [Facebook Prophet](facebook.github.io/prophet/). We're thinking of using it for other kinds of timeseries forecasting, like B2C leads and visits.
-- And finally, we've been dabbling with NLP in order to better know the K12 market in Brazil. Public data is sparse and diffuse, so we have to gather data from several public sources, where school names, addresses and owners are often not exactly the same, so, a lot of fuzzy matching. We're constantly improving on that.
+- Every semester, we forecast future growth of revenue using [Facebook Prophet](facebook.github.io/prophet/). We're thinking of using it for other kinds of timeseries forecasting, like B2C leads and visits;
+- We have a Bayesian AB testing framework based on [this white paper](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf) in the company, that we're refactoring and trying to build as a python package; I'm contributing with this cross sector project;
+- And finally, we've been dabbling with Natural Language Processing (NLP) so that we can better know the K12 market in Brazil. Public data is sparse and diffuse, and we have to gather data from several public sources, where school names, addresses and owners are often not exactly the same. Therefore, a lot of fuzzy matching that we're constantly improving.
 
 ## 📫 Get in touch!
 
