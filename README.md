@@ -10,7 +10,7 @@ You can see the pinned projects bellow, but let me tell you why I pinned them:
 
 1. **tccENAP:** capstone project for my graduate course on data analyis for public policies, where I examine distance by car between municipalities without Brazilian's IRS assistance centes and municipalities with these centers, in order to highlight possible opportunities in establishing and closing centers. 
 1. **iusNominatim:** combination of [OSM nominatim in a docker](https://github.com/mediagis/nominatim-docker), [libpostal](https://github.com/openvenues/libpostal) and some data wrangling with brazilian geo data from [geobr](https://github.com/ipeaGIT/geobr) to create a geocoding system that delivers better data than vanilla nominatim. 
-1. **pipelinedeals-wrapper:** Python wrapper for the API of [PipelineDeals](https://www.pipelinedeals.com).
+1. **pypelineDeals:** Python wrapper for the API of [PipelineDeals](https://www.pipelinedeals.com).
 
 You can also check my [kaggle profile](https://www.kaggle.com/celsomattheus) for some interesting projects outside of github.
 
